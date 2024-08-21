@@ -1,0 +1,9 @@
+\contentsline {section}{\numberline {1}项目背景}{2}{section.1}%
+\contentsline {subsection}{\numberline {1.1}数据概述}{2}{subsection.1.1}%
+\contentsline {section}{\numberline {2}模型选择与设计}{2}{section.2}%
+\contentsline {subsection}{\numberline {2.1}初始超参数设置}{2}{subsection.2.1}%
+\contentsline {section}{\numberline {3}实验结果与分析}{2}{section.3}%
+\contentsline {subsection}{\numberline {3.1}模型性能}{2}{subsection.3.1}%
+\contentsline {subsection}{\numberline {3.2}损失函数曲线}{3}{subsection.3.2}%
+\contentsline {subsection}{\numberline {3.3}模型优化与调优}{3}{subsection.3.3}%
+\contentsline {subsection}{\numberline {3.4}总结}{3}{subsection.3.4}%
